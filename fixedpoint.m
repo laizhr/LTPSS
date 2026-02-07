@@ -1,6 +1,5 @@
 function [L,Ltotal]=fixedpoint(Pie_hat)
-%UNTITLED 此处显示有关此函数的摘要
-%   此处显示详细说明
+
 kk=3;
 theta=0.9999;
 
@@ -52,4 +51,5 @@ end
 
 
 end
+
 
