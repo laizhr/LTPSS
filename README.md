@@ -11,3 +11,9 @@ Usage:
 1. Load return data from `25_Size_BM_1963.mat` and Fama-French five factors from `ff5daily.mat`.
 
 2. Run `main.m` to get the results.
+
+For any usage of the provided data sets, we strongly suggest citing the corresponding original papers or URLs.
+
+`25_Size_BM_1963.mat` and `ff5daily.mat`: Bryan Kelly, Semyon Malamud, and Lasse Heje Pedersen. Principal portfolios. The Journal of Finance, 78(1):347–387, 2023.
+
+Moreover, these data sets are built upon the Kenneth R. French’s Data Library: http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html.
